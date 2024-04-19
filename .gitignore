@@ -1,3 +1,4 @@
 # ignore interpreter files
 .venv
 .idea
+__pycache__
